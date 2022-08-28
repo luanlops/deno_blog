@@ -6,7 +6,7 @@ blog({
   lang: "pt-br",
   theme: "light",
   description: "Blog pessoal para divulgar artigos e projetos.",
-  avatar: "https://deno-avatar.deno.dev/avatar/blog.svg",
+  avatar: "./assets/crash.jpg",
   favicon: './assets/galaxy.png',
   avatarClass: "rounded-full",
   links: [
